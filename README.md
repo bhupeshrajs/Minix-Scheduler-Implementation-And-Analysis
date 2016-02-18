@@ -9,7 +9,7 @@ Multilevel Feedback Queue Scheduler
 		# cc longrun2.c -o long2
 		# cc longrun3.c -o long3
 		# cc mytest.c -o mytest
-		
+	
 Lottery Scheduler
 	Copy the files in the respective folders
 	pm_schedule.c is to be copied into the /usr/src/servers/pm/ folder with name schedule.c
